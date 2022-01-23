@@ -10,5 +10,5 @@
 - 📫 Reach me: [twitter.com/LearningMichael](https://twitter.com/LearningMichael)
 - ⚙️ In daily work I use `html`, `css`, `aspCore` 
 
-![Visitor Count](https://profile-counter.glitch.me/MichaelTheLearner/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/MichaelTheLearner/count.svg) -->
 
