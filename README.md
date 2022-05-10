@@ -7,7 +7,7 @@
 
 ### BIO
 - Live: Maryland
-- 📫 Reach me: [twitter.com/LearningMichael](https://twitter.com/LearningMichael)
+- 📫 Reach me: [twitter.com/LearningMichael](https://twitter.com/LearningMichael) or [MichaelTheLearner@gmail.com](mailto:MichaelTheLearner@gmail.com)
 - ⚙️ In daily work I use `Javascript`, `html5`, `css`, `aspCore` 
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/MichaelTheLearner/count.svg) -->
