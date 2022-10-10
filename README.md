@@ -1,4 +1,4 @@
-#👋 Hi, I’m Michael Shaw
+# 👋 Hi, I’m Michael Shaw
 
 ### NOW
 - 🌱 I’m currently learning Fullstack Javascript from #100Devs
